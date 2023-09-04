@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVCHDをmp4にするやつ", "AVCHDをmp4にするやつ.csproj", "{D85074EB-C978-40F0-BDB1-BB95F01B654E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85074EB-C978-40F0-BDB1-BB95F01B654E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85074EB-C978-40F0-BDB1-BB95F01B654E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85074EB-C978-40F0-BDB1-BB95F01B654E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85074EB-C978-40F0-BDB1-BB95F01B654E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F56928C-E160-4836-9FC0-40CA71FE0288}
+	EndGlobalSection
+EndGlobal
